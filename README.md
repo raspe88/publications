@@ -4,7 +4,7 @@ This repository contains a set of personal publications, anyone may read and use
 
 **CC BY (Creative Commons Attribution 4.0 International)**
 
-Your can find the license at: https://creativecommons.org/licenses/by/4.0/legalcode
+You can find the license at: https://creativecommons.org/licenses/by/4.0/legalcode
 
 You can find a summery of the license at: https://creativecommons.org/licenses/by/4.0/
 
